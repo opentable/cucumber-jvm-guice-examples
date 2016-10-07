@@ -1,4 +1,4 @@
-package test;
+package com.ot.lat;
 
 public interface Greeter {
 

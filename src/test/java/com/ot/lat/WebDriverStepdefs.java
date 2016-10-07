@@ -1,4 +1,4 @@
-package test;
+package com.ot.lat;
 
 import org.openqa.selenium.WebDriver;
 
